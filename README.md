@@ -1,5 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Durjoy Chandra </h1>
 
+<p align="center">
+  A self-taught frontend developer passionate about cloning modern web applications.<br/>
+  Focused on Javascript ,tailwindcss,  vite-React .
+</p>
+
+---
 <!--
 **durjoyweb/durjoyweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
