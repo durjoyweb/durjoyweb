@@ -11,7 +11,7 @@
 - **Frontend:** React js, Tailwind CSS  
 - **Tools:** Git,Vercel. 
 - **CS Knowledge:** DSA,OPPS.  
--->
+
 
   ## 🌐 Frontend Projects
 
