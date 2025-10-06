@@ -17,7 +17,7 @@
 
 | Project | Description | Live Demo | Code |
 |--------|-------------|-----------|------|
-| **world-information** | A world-info plartform demo for world information | [🌱 Live]([https://farmhub-seven.vercel.app](https://world-information-seven.vercel.app/)) | [🔗 GitHub](https://github.com/durjoyweb/World-information.git) |
+| **world-information** | A world-info plartform demo for world information | [🌱 Live](https://world-information-seven.vercel.app/) | [🔗 GitHub](https://github.com/durjoyweb/World-information.git) |
 | **protfolio** | This my protfolio web-page | [📊 Live](https://protfolio-durjoywebs-projects.vercel.app/) | [🔗 GitHub](https://github.com/durjoyweb/profile-durjoy.git) |
 
 
