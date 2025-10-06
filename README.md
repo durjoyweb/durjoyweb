@@ -12,8 +12,8 @@
 - **Tools:** Git,Vercel. 
 - **CS Knowledge:** DSA,OPPS.  
 
-
-  ## 🌐 Frontend Projects
+---
+ ## 🌐 Frontend Projects
 
 | Project | Description | Live Demo | Code |
 |--------|-------------|-----------|------|
