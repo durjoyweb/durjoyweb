@@ -19,6 +19,7 @@
 |--------|-------------|-----------|------|
 | **world-information** | A world-info plartform demo for world information | [🌍 Live](https://world-information-seven.vercel.app/) | [🔗 GitHub](https://github.com/durjoyweb/World-information.git) |
 | **protfolio** | This my protfolio web-page | [💼 Live](https://protfolio-durjoywebs-projects.vercel.app/) | [🔗 GitHub](https://github.com/durjoyweb/profile-durjoy.git) |
+| **protfolio** | This is for Senior Accountant of Kushiara International company | [💼 Live](https://bizon-kumer.vercel.app/) | [🔗 GitHub](https://github.com/durjoyweb/bizon_Kumer) |
 
 
 ---
